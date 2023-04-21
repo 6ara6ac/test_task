@@ -13,8 +13,8 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./cjs/react-dom.production.min.js":"i17t"}],"NdAl":[function(require,module,exports) {
 "use strict";var t,e=require("react-dom");exports.createRoot=e.createRoot,exports.hydrateRoot=e.hydrateRoot;
 },{"react-dom":"NKHc"}],"FbLG":[function(require,module,exports) {
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.App=void 0;var e=r(require("react"));function r(e){return e&&e.__esModule?e:{default:e}}var t=function(){return e.default.createElement("h1",null,"My parcel")};exports.App=t;
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.App=void 0;var e=r(require("react"));function r(e){return e&&e.__esModule?e:{default:e}}var t=function(){return e.default.createElement("h1",null,"My parcel yhuuuu!")};exports.App=t;
 },{"react":"n8MK"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("react")),t=u(require("react-dom/client")),r=require("./components/App");function u(e){return e&&e.__esModule?e:{default:e}}t.default.createRoot(document.getElementById("root")).render(e.default.createElement(e.default.StrictMode,null,e.default.createElement(r.App,null)));
 },{"react":"n8MK","react-dom/client":"NdAl","./components/App":"FbLG"}]},{},["Focm"], null)
-//# sourceMappingURL=/test_task/src.481d2b43.js.map
+//# sourceMappingURL=/test_task/src.50d122f5.js.map
