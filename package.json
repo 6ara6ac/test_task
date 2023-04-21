@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/index.html ",
+    "build": "parcel build src/*.html --public-url /test_task/",
     "start": "parcel src/index.html --open"
   },
   "repository": {
@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/6ara6ac/test_task/issues"
+    "url": "https://github.com/6ara6ac/test_task"
   },
-  "homepage": "https://github.com/6ara6ac/test_task/issues",
+  "homepage": "https://6ara6ac.github.io/test_task/",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
