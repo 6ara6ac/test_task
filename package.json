@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/6ara6ac/test_task/issues"
   },
-  "homepage": "https://6ara6ac.github.io/6ara6ac/test_task#readme",
+  "homepage": "https://6ara6ac.github.io/6ara6ac/test_task",
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-env": "^7.21.4",
