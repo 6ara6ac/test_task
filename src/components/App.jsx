@@ -2,5 +2,5 @@ import React from "react"
 
 export const App = () => {
 
-    return <h1>My parcel</h1>
+    return <h1>My parcel yhuuuu!</h1>
 }
