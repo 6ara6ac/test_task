@@ -1,3 +1,4 @@
+import React from "react"
 import { UserData } from "../UserData/UserData";
 
 export const Tweets = ({users}) => {
