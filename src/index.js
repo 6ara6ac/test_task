@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-        <BrowserRouter basename="/test_task/">
+        <BrowserRouter basename="/test_task">
                 <App />
         </BrowserRouter>
 

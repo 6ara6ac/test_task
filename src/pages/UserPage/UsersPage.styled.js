@@ -18,5 +18,6 @@ margin-bottom:30px;
 export const Button = styled.button`
 margin-top: 30px;
 background: linear-gradient(114.99deg, rgb(71, 28, 169) -0.99%, rgb(87, 54, 163) 54.28%, rgb(75, 42, 153) 78.99%);
+color: #fff
 
 `
