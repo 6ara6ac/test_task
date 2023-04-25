@@ -1,27 +1,3 @@
-# empty-project
+This app was build by parcel and react. Web url you can find on 6ara6ac.github.io/test_task/. 
 
-Empty project.
-
-## Building and running on localhost
-
-First install dependencies:
-
-```sh
-npm install
-```
-
-To run in hot module reloading mode:
-
-```sh
-npm start
-```
-
-To create a production build:
-
-```sh
-npm run build-prod
-```
-
-## Running
-
-Open the file `dist/index.html` in your browser
+It helps users find thieir friends and follow them, you can filter your friend by follow and following, watch how many followers each user of the app has and how many tweets he posted.
